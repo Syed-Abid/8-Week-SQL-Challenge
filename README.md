@@ -1,6 +1,6 @@
 # 8 Weeks SQL Challenge
 
-![SQL Challenge Logo](https://your-image-url.com/sql_challenge_logo.png)
+![SQL Challenge Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQc8a_3aix3m_fOzVhaMnuGbfFkgNKt8YBzQ&usqp=CAU)
 
 Welcome to my "8 Weeks SQL Challenge" repository! 🚀
 

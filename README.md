@@ -26,7 +26,9 @@ This repository is a reflection of my dedication to mastering SQL over the cours
   how to use their data to help them run the business.
 - Danny wants to use the data to answer a few simple questions about his customers, especially about their visiting patterns, how much money they’ve spent and also which menu items are 
   their favourite. Having this deeper connection with his customers will help him deliver a better and more personalised experience for his loyal customers.
-
+- You can find the code through the link given below:
+  [Code Link](https://github.com/Syed-Abid/8-Week-SQL-Challenge/blob/main/Week1/Case%20Study%20%23%201.sql)
+   
 ## My Dedication
 
 _Dedication paves the path to mastery._ 💪

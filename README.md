@@ -40,8 +40,7 @@ This repository is a reflection of my dedication to mastering SQL over the cours
   he was going to Uberize it - and so Pizza Runner was launched!
 - Danny started by recruiting “runners” to deliver fresh pizza from Pizza Runner Headquarters (otherwise known as Danny’s house) and also maxed out his credit card to pay freelance 
   developers to build a mobile app to accept orders from customers.
-- You can find the code throught the link given below:
-- [Code Link]()
+- You can find the code throught the link given below: [Code Link]()
 ## My Dedication
 
 _Dedication paves the path to mastery._ 💪
